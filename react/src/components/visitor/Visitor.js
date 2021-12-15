@@ -12,7 +12,8 @@ function Visitor(){
 <Link to='/manage-incident'>Manage Incident</Link>
 
 <Link to='/chat-visitor'>Chat</Link>
-</div> 
+</div>
+
     <div>
         <h1 style={{"text-align":"center"}}>
             Welcome

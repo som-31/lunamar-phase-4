@@ -22,7 +22,7 @@ function SuperAdmin(){
     </div>
     <div>
         <h1 style={{'text-align':'center'}}>
-            Welcome, Manager
+            Welcome, Somnath !
         </h1>
     </div>
 
